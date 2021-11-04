@@ -1,0 +1,30 @@
+.statust {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+}
+
+.statusf {
+  width: 20px;
+  height: 20px;
+  background-color: green;
+}
+
+.name {
+  font-size: 20px;
+}
+
+.item {
+  background-color: grey;
+  width: 250px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+.avatar {
+  margin-left: 20px;
+  margin-right: 20px;
+}

@@ -1,0 +1,25 @@
+.statList {
+  list-style: none;
+  display: inline-flex;
+  padding: 0;
+}
+
+.item {
+  border: solid rgb(105, 233, 233);
+  padding: 10px;
+  display: grid;
+}
+
+.statistics {
+  text-align: center;
+  width: 400px;
+  border: solid green;
+}
+
+.label {
+  color: blue;
+}
+
+.percentage {
+  font-size: 40px;
+}

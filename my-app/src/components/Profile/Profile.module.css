@@ -1,0 +1,36 @@
+.avatar {
+  width: 150px;
+  height: 150px;
+}
+
+.profile {
+  width: 250px;
+  text-align: center;
+}
+
+.stats {
+  margin: 0;
+  display: inline-flex;
+  list-style: none;
+}
+
+.item {
+  margin-top: 0;
+  margin-right: 10px;
+  display: grid;
+}
+
+.label {
+  margin: 0;
+  font-weight: bold;
+}
+
+.quantity {
+  margin: 0;
+  color: grey;
+}
+
+.name {
+  margin: 0;
+  font-weight: bold;
+}
